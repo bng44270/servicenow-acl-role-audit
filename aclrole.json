@@ -1,0 +1,9 @@
+{
+    "csvFile" : "audit.csv",
+    "aclRoleFile" : "sys_security_acl_role.xml",
+    "aclFile" : "sys_security_acl.xml",
+    "checkRoles" : [
+        "admin",
+        "itil"
+    ]
+}
