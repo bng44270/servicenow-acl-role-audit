@@ -3,6 +3,8 @@
 # Parses ACL and ACL Roles table exports and produces
 # a CSV file containing Table, Role, and Operation
 #
+# Note:  CSV file will only contain table-level ACLs
+#
 # Usage:
 #
 #     1. Modify the values in the configuration file
